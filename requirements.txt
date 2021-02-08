@@ -1,0 +1,4 @@
+azure-common==1.1.26
+azure-core==1.10.0
+azure-identity==1.5.0
+azure-keyvault-secrets==4.2.0

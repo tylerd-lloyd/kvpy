@@ -1,0 +1,10 @@
+{
+    "source-vault-name" : "MY_OLD_KEYVAULT",
+    "destination-vault-name": "MY_NEW_KEYVAULT",
+    "secret-names": [
+        "MY_SECRET_1",
+        "MY_SECRET_2"
+    ],
+    "certificate-name": [],
+    "key-names": []
+}
